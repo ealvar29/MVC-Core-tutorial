@@ -11,7 +11,7 @@ namespace PieShop.Repository
             {
                 new Category {CategoryId = 1, CategoryName = "Fruit Pies", Description = "All-Fruit Pie!" },
                 new Category {CategoryId = 2, CategoryName = "Fruit Pies", Description = "All-Fruit Pie!" },
-                new Category {CategoryId = 1, CategoryName = "Fruit Pies", Description = "All-Fruit Pie!" }
+                new Category {CategoryId = 3, CategoryName = "Fruit Pies", Description = "All-Fruit Pie!" }
             };
     }
 }
